@@ -36,7 +36,7 @@ A simple Telegram bot that provides weather forecasts for any city using the Ope
 
     ```env
     TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-    OPENWEATHER_API_KEY=your_openweather_api_key
+    OPENWEATHERMAP_API_KEY=your_openweather_api_key
     ```
 
 
